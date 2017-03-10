@@ -41,6 +41,25 @@ p{
 	
 }
 
-#centro-distribuição{
+#centro-distribuicao	{
+	
+	margin-left: auto;
+	margin-right:auto;
+	width:550px;
+}
+#rodape img{
+	margin-right: 30px;
+	vertical-align: middle;
+	width: 95px;
+		
+}
+
+#familia-pelho{
+	float: right;
+	margin: 0 0 10px 10px;
+	
 	
 }
+
+
+
